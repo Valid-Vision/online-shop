@@ -1,0 +1,113 @@
+[
+    {
+        "id": "1",
+        "title": "Wall Connector",
+        "image": "wall-connector.jpg",
+        "description": "Charge at home, anytime. Tesla Wall Connector provides a full charge overnight for every homeowner.",
+        "price": 500
+    },
+    {
+        "id": "2",
+        "title": "Cable Organizer",
+        "image": "cable-organizer.jpg",
+        "description": "Store your Tesla Mobile Connector cables with the newly redesigned Cable Organizer.",
+        "price": 35
+    },
+    {
+        "id": "3",
+        "title": "Corded Mobile Connector",
+        "image": "gen-mobile-connector-bundle.jpg",
+        "description": "Corded Mobile Connector features a NEMA 14-50 plug and improved charging speeds",
+        "price": 520
+    },
+    {   "id": "4",
+        "title": "NEMA Adapter Bundle",
+        "image": "nema-adapter-bundle.jpg",
+        "description": "With all seven Gen 2 NEMA adapters in one convenient storage bag, you can charge at any available outlet, at home or on the road.",
+        "price": 220
+    },
+    {
+        "id": "5",
+        "title": "Gen 1 NEMA Adapters",
+        "image": "gen-1-nema-adapters.jpg",
+        "description": "Use a variety of household outlets to charge your Tesla with a Gen 1 NEMA Adapter. ",
+        "price": 45
+    },
+    {
+        "id": "6",
+        "title": "Automatic Garage Opener",
+        "image": "automatic-garage-opener.jpg",
+        "description": "Come and go with easy access. Connect Model 3 to your garage door, gate system and other radio-frequency (RF) controlled devices with the fully integrated Homelink module.",
+        "price": 300
+    },
+    {
+        "id": "7",
+        "title": "Model 3 Key Fob",
+        "image": "model-3-key-fob.jpg",
+        "description": "No hands required. Locking and unlocking your Model 3 has never been easier. ",
+        "price": 150
+    },
+    {
+        "id": "8",
+        "title": "Model 3 Wireless Phone Charger",
+        "image": "model-3-wireless-phone-charger.jpg",
+        "description": "Stay charged with the Model 3 Wireless Phone Charger designed exclusively by Tesla. ",
+        "price": 125
+    },
+    {
+        "id": "9",
+        "title": "Model 3 Aero Wheel Cove",
+        "image": "model-3-aero-wheel-cover.jpg",
+        "description": "Original equipped cover for Model 3 18 Aero Wheel ",
+        "price": 25
+    },
+    {
+        "id": "10",
+        "title": "Model S Wiper Blades",
+        "image": "model-s-wiper-blades.jpg",
+        "description": "To ensure maximum performance, correct fitment, and visual clarity replace your Model S wiper blades with genuine replacements",
+        "price": 28
+    },
+    {
+        "id": "11",
+        "title": "Model 3 Carpet Interior Mats",
+        "image": "carpet-interior-mats.jpg",
+        "description": "Model 3 Carpet Interior Mats offer comfortable floor protection with a thick, durable pile and come treated for stain and soil resistance",
+        "price": 95
+    },
+    {
+        "id": "12",
+        "title": "T Logo Hat",
+        "image": "t-logo-hat.jpg",
+        "description": "Classic shaped hat with unstructured body and curved visor, featuring Tesla T logo.",
+        "price": 25
+    },
+    {
+        "id": "13",
+        "title": "Men's Corp Jacket",
+        "image": "men's-corp-jacket.jpg",
+        "description": "Fully customized and uniquely styled, the Tesla Corp Jacket features a silicone-printed T logo.",
+        "price": 120
+    },
+    {
+        "id": "14",
+        "title": "Large Wordmark Pullover Hoodie",
+        "image": "large-wordmark.jpg",
+        "description": "The Large Wordmark Pullover Hoodie features soft fleece and an adjustable",
+        "price": 70
+    },
+    {
+        "id": "15",
+        "title": "Powerbank",
+        "image": "powerbank.jpg",
+        "description": "You can now become a Tesla owner without spending the big bucks",
+        "price": 45
+    },
+    {
+        "id": "16",
+        "title": "Stainless Steel Water Bottle",
+        "image": "steel-water-bottle.jpg",
+        "description": "The new Tesla stainless steel water bottle is a conveniently sized, insulated water bottle. ",
+        "price": 30
+    }
+]

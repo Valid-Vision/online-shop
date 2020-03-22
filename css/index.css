@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Spartan&display=swap');
+
+header, body, footer{
+    font-family: 'Spartan', sans-serif;
+}
+
+
+
+.card {
+    height: 100%;
+}
+
+.contacts{
+    display: flex;
+    justify-content: space-between;
+}
+
+
