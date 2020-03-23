@@ -4,7 +4,17 @@ header, body, footer{
     font-family: 'Spartan', sans-serif;
 }
 
+h4{
+    margin: 10px;
+}
 
+a{
+    font-weight:bolder;
+}
+
+ul{
+    list-style-type: none;
+}
 
 .card {
     height: 100%;
@@ -13,6 +23,31 @@ header, body, footer{
 .contacts{
     display: flex;
     justify-content: space-between;
+    background-color: #F8F9FA;
+    text-align: center;
+    font-size: 12pt;
+    padding: 20px;
 }
 
+@media(min-width:0px){
+    .contacts{
+        display: grid;
+        grid-template-columns: 1fr ;
+    }
+}
 
+@media(min-width:660px){
+    .contacts{
+        grid-template-columns: 1fr 1fr ;
+    }
+}
+
+@media(min-width:770px){
+    .contacts{
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+}
+
+body{
+    font-size: 10pt;
+}

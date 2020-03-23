@@ -35,7 +35,7 @@
     },
     {
         "id": "6",
-        "title": "Automatic Garage Opener",
+        "title": "Automatic Garage",
         "image": "automatic-garage-opener.jpg",
         "description": "Come and go with easy access. Connect Model 3 to your garage door, gate system and other radio-frequency (RF) controlled devices with the fully integrated Homelink module.",
         "price": 300
@@ -49,14 +49,14 @@
     },
     {
         "id": "8",
-        "title": "Model 3 Wireless Phone Charger",
+        "title": "Wireless Phone Charger",
         "image": "model-3-wireless-phone-charger.jpg",
         "description": "Stay charged with the Model 3 Wireless Phone Charger designed exclusively by Tesla. ",
         "price": 125
     },
     {
         "id": "9",
-        "title": "Model 3 Aero Wheel Cove",
+        "title": "Aero Wheel Cove",
         "image": "model-3-aero-wheel-cover.jpg",
         "description": "Original equipped cover for Model 3 18 Aero Wheel ",
         "price": 25
@@ -70,7 +70,7 @@
     },
     {
         "id": "11",
-        "title": "Model 3 Carpet Interior Mats",
+        "title": "Carpet Interior Mats",
         "image": "carpet-interior-mats.jpg",
         "description": "Model 3 Carpet Interior Mats offer comfortable floor protection with a thick, durable pile and come treated for stain and soil resistance",
         "price": 95
@@ -91,7 +91,7 @@
     },
     {
         "id": "14",
-        "title": "Large Wordmark Pullover Hoodie",
+        "title": "Large Wordmark Pullover",
         "image": "large-wordmark.jpg",
         "description": "The Large Wordmark Pullover Hoodie features soft fleece and an adjustable",
         "price": 70
@@ -105,7 +105,7 @@
     },
     {
         "id": "16",
-        "title": "Stainless Steel Water Bottle",
+        "title": "Steel Water Bottle",
         "image": "steel-water-bottle.jpg",
         "description": "The new Tesla stainless steel water bottle is a conveniently sized, insulated water bottle. ",
         "price": 30
